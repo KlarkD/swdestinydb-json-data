@@ -82,6 +82,11 @@
         "text": "Finché questa miglioria è assegnata al Quinto Fratello, puoi risolvere questo dado come se non fosse modificatore.\nDopo che hai risolto questo dado, puoi infliggere 1 danno a un personaggio."
     },
     {
+        "code": "07016",
+        "name": "Terrore di Forza",
+        "text": "Solo personaggi Blu.\n[special] - Rimuovi 1 dado personaggio di un avversario, a meno che l'avversario non infligga 2 danni a quel personaggio."
+    },
+    {
         "code": "07017",
         "flavor": "\"Mi sento dilaniato. Voglio liberarmi da questa pena.\" <cite>Kylo Ren</cite>",
         "name": "Tormento",
